@@ -1,7 +1,7 @@
 {
-  "name": "@hodgef/js-library-boilerplate-basic",
-  "version": "1.0.9",
-  "description": "Javascript Minimal Starter Kit for building libraries",
+  "name": "@archbrys/sort-me",
+  "version": "1.0.0",
+  "description": "Sort library using different algorithm",
   "main": "build/index.js",
   "scripts": {
     "build": "webpack",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hodgef/js-library-boilerplate-basic"
+    "url": "https://github.com/archbrys/sort-me"
   },
-  "author": "Francisco Hodge <hello@franciscohodge.com> (https://github.com/hodgef)",
+  "author": "Archie Reyes <archbrys@gmail.com> (https://github.com/archbrys)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hodgef/js-library-boilerplate-basic/issues"
+    "url": "https://github.com/archbrys/sort-me/issues"
   },
-  "homepage": "https://github.com/hodgef/js-library-boilerplate-basic",
+  "homepage": "https://github.com/archbrys/sort-me",
   "keywords": [
     "library",
     "starter",

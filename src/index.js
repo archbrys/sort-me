@@ -1,13 +1,11 @@
 import "./index.css";
 
-class MyLibrary {
-  constructor() {
-    console.log("Library constructor loaded");
-  }
+class SortMe {
+  constructor() {}
 
-  myMethod = () => {
-    console.log("Library method fired");
-  };
+  bubble = () => {};
+
+  pancake = () => {};
 }
 
-export default MyLibrary;
+export default SortMe;
